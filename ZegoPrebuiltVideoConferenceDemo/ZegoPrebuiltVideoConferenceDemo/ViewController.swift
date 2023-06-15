@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import ZegoUIKitSDK
+import ZegoUIKit
 import ZegoUIKitPrebuiltVideoConference
 
 class ViewController: UIViewController {
